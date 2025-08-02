@@ -80,7 +80,7 @@ Visit [http://localhost:3000](http://localhost:3000) to use the platform.
 
 ## 📸 Screenshots
 
-![Dashboard]("C:\Users\ankit\OneDrive\Desktop\Portfolio\assets\ZKP.png")
+![Dashboard](C:\Users\ankit\OneDrive\Desktop\Portfolio\assets\ZKP.png)
 
 ---
 
